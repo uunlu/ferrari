@@ -1,0 +1,22 @@
+{
+  "name": "ferrari",
+  "version": "1.0.0",
+  "description": "Ferrari Momdels",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uunlu/ferrari.git"
+  },
+  "keywords": [
+    "ferrari"
+  ],
+  "author": "Ugur Unlu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uunlu/ferrari/issues"
+  },
+  "homepage": "https://github.com/uunlu/ferrari#readme"
+}
